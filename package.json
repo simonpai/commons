@@ -1,0 +1,16 @@
+{
+  "name": "@simonpai/resolution",
+  "type": "module",
+  "description": "A function a generate a tuple of promise and its resolve/reject functions.",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "contributors": [
+    "simonpai <simon.pai@gmail.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "bumpvr": "^1.0.1"
+  }
+}
